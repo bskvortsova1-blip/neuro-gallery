@@ -172,7 +172,7 @@ body {
 
 .footer {
     height: 100vh;
-    background-image: url(./images/7.png);
+    background-image: url(./7.png);
     background-position: left;
     background-repeat: no-repeat;
     background-size: cover;
@@ -190,3 +190,4 @@ body {
     font-size: 40px;
     color: white;
 }
+
