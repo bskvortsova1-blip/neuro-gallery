@@ -11,7 +11,7 @@ body {
 
 .header {
     height: 100vh;
-    background-image: url(./13.png);
+    background-image: url(./7.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -190,4 +190,3 @@ body {
     font-size: 40px;
     color: white;
 }
-
