@@ -11,7 +11,7 @@ body {
 
 .header {
     height: 100vh;
-    background-image: url(./7.png);
+    background-image: url(./images/13.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -59,11 +59,11 @@ body {
 .gallery {
     list-style-type: none;
     margin: 173px auto;
-    max-width: 1200px;
+    max-width: 1060px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 30px;
+    gap: 20px;
     padding: 0 20px;
 }
 
@@ -172,7 +172,7 @@ body {
 
 .footer {
     height: 100vh;
-    background-image: url(./7.png);
+    background-image: url(./images/7.png);
     background-position: left;
     background-repeat: no-repeat;
     background-size: cover;
@@ -190,4 +190,3 @@ body {
     font-size: 40px;
     color: white;
 }
-
